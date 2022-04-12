@@ -4,10 +4,9 @@
 I am a front-end developer, self-taught.I consider myself a proactive person, with a high sense of responsibility, honesty, solidarity and punctuality. Willing to work competitively at all levels, with growth expectations in order to become a great professional.
 
 <hr>
-<h2 aling="center">*** 
+<h2>*** 
 Social 📱*** </h2> 
 
-<hr>
 
 You can find me on the following social media platforms or send me an email:
 <br>
