@@ -15,4 +15,6 @@ You can find me on the following social media platforms or send me an email:
 👔<a href="https://www.linkedin.com/in/nicol%C3%A1s-dume-11b652185/">Linkedin</a>
 <br>
 📩<a href="#">dumenicolas45@gmail.com</a>
+<br>
+⌛<a href="https://nicolas-dume-portafolio.netlify.app/">Portafolio</a>
 
